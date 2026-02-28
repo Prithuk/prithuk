@@ -84,8 +84,8 @@
 
 ## Let's Connect
 
-<p align="left">
-<a href="linkedin.com/in/er-prithu-kathet-82276a1a5/" target="blank">
-<img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" />
+<p align="center">
+<a href="https://linkedin.com/in/er-prithu-kathet-82276a1a5">
+<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
 </a>
 </p>
