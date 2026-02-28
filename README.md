@@ -9,7 +9,7 @@
 <td width="60%">
 
 <h1>Hi 👋, I'm Prithu</h1>
-<h3>Backend Engineer | Java & Spring Boot | AI Enthusiast</h3>
+<h3>Software Engineer | Distributed Systems, Java , Spring Boot, Microservices | AI Enthusiast</h3>
 
 - Graduating May 2026, MSCS
 - 4+ years of backend development experience
